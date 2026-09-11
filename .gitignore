@@ -1,0 +1,11 @@
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# Local data (Never commit raw or processed data)
+data/raw/
+data/processed/
+
+# Secrets
+.env
