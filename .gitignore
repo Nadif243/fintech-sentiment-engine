@@ -9,3 +9,6 @@ data/processed/
 
 # Secrets
 .env
+
+# Local database files
+*.db
