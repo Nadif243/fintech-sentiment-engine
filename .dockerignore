@@ -1,0 +1,16 @@
+# Git and environments
+.git
+.gitignore
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Local data and databases
+data/
+*.db
+*.sqlite3
+
+# Docker-specific
+docker-compose.yml
+Dockerfile
